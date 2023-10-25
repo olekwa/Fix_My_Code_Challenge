@@ -4,10 +4,10 @@
 
 
 /**
- * add_dnodeint_end - Add a node at the end of a list
+ * add_dnodeint_end - This will add a node at the end of a list
  *
- * @head: The address of the pointer to the first element of the list
- * @n: The number to store in the new element
+ * @head: This is thse address of the pointer to the first element of the list
+ * @n: This is the number to be stored in the new element
  *
  * Return: A pointer to the new element
  */
