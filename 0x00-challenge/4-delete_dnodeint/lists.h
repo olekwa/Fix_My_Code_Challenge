@@ -7,8 +7,8 @@
 /**
  * struct dlistint_s - doubly linked list
  * @n: integer
- * @prev: points to the prev node
- * @next: points to the next node
+ * @prev: This points to the prev node
+ * @next: This points to the next node
  *
  * Description: doubly linked list node structure
  * for ALX project
