@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" FizzBuzz by Nyarko Philip Abel
+""" FizzBuzz by John Olekwa
 """
 import sys
 
@@ -8,7 +8,7 @@ import sys
 
 def fizzbuzz(n):
     """
-    FizzBuzz function prints numbers from 1 to n separated by a space.
+    FizzBuzz function prints all numbers from 1 to n which are separated  by a space.
 
     - For multiples of three print "Fizz" instead of the number and for
       multiples of five print "Buzz".
